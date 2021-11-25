@@ -1,2 +1,2 @@
-# Heroku-Demo
-Trial of Heroku Deployment
+#Demo-H
+Trial of IPL Score Predictor
